@@ -5,3 +5,5 @@ pillow
 matplotlib
 seaborn
 keras
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
