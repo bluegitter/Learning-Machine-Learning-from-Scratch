@@ -1,0 +1,17 @@
+name: learning_env
+channels:
+  - javascript
+dependencies:
+  - python   # or 2.7
+  - numpy
+  - pandas
+  - scikit-learn
+  - pillow
+  - matplotlib
+  - seaborn
+  - tensorflow
+  - keras
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - pip:
+    - requests
