@@ -4,6 +4,7 @@ scikit-learn
 pillow
 matplotlib
 seaborn
+tensorflow
 keras
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
