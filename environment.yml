@@ -11,6 +11,8 @@ dependencies:
   - seaborn
   - tensorflow
   - keras
+  - phe
+  - rsa
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
   - pip:
